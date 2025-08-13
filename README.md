@@ -8,7 +8,7 @@ Diseñadora UI/UX · Automatización industrial · Visión por computadora (Pyth
 ### 🧭 Sobre mí
 - 🎯 Actualmente: inspección visual con **cámaras industriales + Python + PLC**.
 - ✨ Me enfoco en **UI/UX**, **buenas prácticas** y **automatización confiable**.
-- 📬 Contacto: **cinthia.parra.solorio@outlook.com** · LinkedIn: **https://www.linkedin.com/cinthia-parra**
+- 📬 Contacto: **cinthia.parra.solorio@outlook.com** · LinkedIn: **https://www.linkedin.com/in/cinthia-parra**
 
 ---
 
