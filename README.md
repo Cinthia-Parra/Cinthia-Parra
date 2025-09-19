@@ -34,7 +34,7 @@ Diseñadora UI/UX · Automatización industrial · Visión por computadora (Pyth
   Diseño accesible, responsive, con performance y escalabilidad.
 
 ---
-### 📊 Stats (opcionales)
+### 📊 Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=cinthia-parra&show_icons=true&hide_title=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthia-parra&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="140"/>
