@@ -16,7 +16,6 @@ Diseñadora UI/UX · Automatización industrial · Visión por computadora (Pyth
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=black"/>
-  <img alt="PLC" src="https://img.shields.io/badge/PLC-Industrial-blue"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
