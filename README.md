@@ -20,7 +20,7 @@ Diseñadora UI/UX · Automatización industrial · Visión por computadora (Pyth
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white"/>
-  <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-Design-black"/>
+  <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-Design-FFC0CB?logoColor=black&color=pink"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white"/>
